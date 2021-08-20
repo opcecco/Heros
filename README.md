@@ -1,6 +1,4 @@
-Heros
-=====
-
+# Heros
 Village Heros is a Minecraft Bukkit server plugin that adds a small minigame in which the player is rewarded for protecting villagers.
 
 To compile, run in Eclipse as a Maven Install, and copy the generated Jar file to the plugins directory of your Bukkit server.
